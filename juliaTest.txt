@@ -1,0 +1,37 @@
+#print("single lin ecomment")
+#=print("Multiline comment 1")
+print("Multiline comment 2) =#
+
+#variable declartion
+a=1
+b=1
+
+#print and println
+print("line1")
+println("line2")
+println("line3")
+
+#if-elseif-else implimentation
+if 22==23
+  print(a)
+elseif a==b
+  println("else if Statement")
+else
+  println("else statement")
+end 
+
+#while implimentation
+while a<5 
+  println(a) 
+  a =a+1
+end
+
+#BOADMAS
+c = 10
+d=5
+println(c/d)
+println(c+d)
+println(c-d)
+println(c*d)
+println(5*6)
+
